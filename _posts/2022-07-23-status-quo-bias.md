@@ -4,6 +4,7 @@ tags:
 - "status quo bias"
 tagline: We should always ask ourselves "Why must things be the way they are?" so that we don't become deluded into thinking that our lives can't change for the better.
 date: 2022-07-23 15:30 -0500
+author_profile: false
 ---
 In middle school, I once got sent to the principal's office for not wearing my seatbelt on the school bus. I rode on different school bus models pretty frequently – the older ones typically never had seatbelts while the newer ones did. The same school would often utilize both models during the school year – sometimes I rode the old buses and sometimes the new ones. So, I thought it strange when I, as a 5th grader, had to stare my principal in the eyes and hear him tell me "You **will** wear a seatbelt on the bus". This was perplexing because despite me bringing up the discrepancy between buses with and without seatbelts, a discrepancy he was surely aware of, his reply was nonetheless the same.
 
