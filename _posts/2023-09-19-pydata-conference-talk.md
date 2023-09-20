@@ -4,7 +4,7 @@ tags:
 - "conferences"
 - "programming"
 tagline: Trancript for the speech I gave to open the PyData Language Creator Charity Panel in Seattle
-date: 2022-07-23 15:30 -0500
+date: 2023-09-19 15:30 -0500
 author_profile: false
 ---
 
