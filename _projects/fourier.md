@@ -16,4 +16,3 @@ Dummy
 <div id="canvasContainer1"></div>
 <div id="canvasContainer2"></div>
 
-Test
