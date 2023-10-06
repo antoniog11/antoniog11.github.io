@@ -10,6 +10,8 @@ author_profile: false
 
 *This is the transcript for a speech I gave for the PyData Language Creator Charity Speech on September 19, 2023. At the meeting were the creators of various programming languages like java, typescript and python. I gave this speech conference to open the panel discussion.*
 
+[Here is a link to the video of the talk on youtube](https://youtu.be/r6m4QK7M7TU?si=X7gGwm8yzogMKppv)
+
 Thank you for the introduction. Hello everyone, I want to thank the hosts and the conference organizers for allowing me say a few words to open this panel. 
 
 Its a great privilege to be here to give some opening remarks before such a phenomenal panel of computer scientists and engineers. 
