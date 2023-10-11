@@ -23,7 +23,7 @@ gallery2:
 
 # [Wireless Earbuds for low-cost hearing screening — MobiSys '23](https://dl.acm.org/doi/10.1145/3581791.3596856)
 
-Early hearing loss screening is very important for ensuring that newborns obtain access to health care and assistance for cognitive development. In the United States, virtually every newborn undergoes hearig loss screening soonafter childbirth. Unfortunately, the devices that performs this test cost upwards of thousands of dollars which them prohibitively expensive for low income communities. Despite their high cost, the mechanism of operation is quite simple — the test only involves playing tones into a person's ear through an earbud and analyzing the frequency content of the sounds that come back. 
+Early hearing loss screening is very important for ensuring that newborns obtain access to health care and assistance for cognitive development. In the United States, virtually every newborn undergoes hearing loss screening soonafter childbirth. Unfortunately, the devices that performs this test cost upwards of thousands of dollars which makes them prohibitively expensive for low income communities. Despite their high cost, their mechanism of operation is quite simple — the test only involves playing tones into a person's ear through an earbud and analyzing the frequency content of the sounds that come back. 
 
 To overcome the high cost of traditional devices like this, we built a wireless earbud that could reliably perform this hearing loss screening using commercial off the shelf components for less than $50 dollars. 
 
@@ -32,3 +32,5 @@ To overcome the high cost of traditional devices like this, we built a wireless 
 Otoacoustic emissions are sounds emitted by the inner ear (cochlea) in response to sounds coming from the outside world. Yes, your cochela can actually emit detectable sounds and these sounds can be picked up and recorded by an in-ear microphone. These sounds are called otoacoustic emissions (oto refers to ear). The strength of these emitted sounds is indicative of hearing health. These sounds are faint or virtually absent in people with hearing loss and so detecting their presence or absence can be used to screen an individual for hearing loss. And whats more, these sounds are generated without conscious effort! So doctors can test a one hour old newborn's hearing without having to ask them "Did you catch that last sound?".
 
 {% include gallery id="gallery2" caption="Mobisys Awards Ceremony at [The Old Student house in Helsinki](https://www.vanhaylioppilastalo.fi/en/)" %}
+
+[My mobisys certificate of attendance](/assets/posts/Mobisys-confirmation-2023.pdf)

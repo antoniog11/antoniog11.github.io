@@ -60,27 +60,15 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/antoniog11"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/antoniog11"
 
 defaults:
   # _posts
@@ -122,3 +110,15 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      title: 
+      description: 
+      tags: 
+      excerpt: 
+    posts:
+      description: 
+      tags:  
+      excerpt:

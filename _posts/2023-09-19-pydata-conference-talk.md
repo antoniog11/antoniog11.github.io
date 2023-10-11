@@ -3,7 +3,7 @@ title: PyData Language Creator Charity Speech
 tags:
 - "conferences"
 - "programming"
-tagline: Trancript for the speech I gave to open the PyData Language Creator Charity Panel in Seattle
+excerpt: Trancript for the speech I gave to open the PyData Language Creator Charity Panel in Seattle
 date: 2023-09-19 15:30 -0500
 author_profile: false
 ---

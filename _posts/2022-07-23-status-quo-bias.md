@@ -2,7 +2,7 @@
 title: The Status Quo Bias 
 tags:
 - "status quo bias"
-tagline: We should always ask ourselves "Why must things be the way they are?" so that we don't become deluded into thinking that our lives can't change for the better.
+excerpt: We should always ask ourselves "Why must things be the way they are?" so that we don't become deluded into thinking that our lives can't change for the better.
 date: 2022-07-23 15:30 -0500
 author_profile: false
 ---

@@ -2,7 +2,7 @@
 title: Writing is Distillation
 tags:
 - writing
-tagline: Words are, of course, the most powerful drug used by mankind — Rudyard Kipling
+excerpt: Words are, of course, the most powerful drug used by mankind — Rudyard Kipling
 date: 2022-09-08 13:04 -0700
 author_profile: false
 ---

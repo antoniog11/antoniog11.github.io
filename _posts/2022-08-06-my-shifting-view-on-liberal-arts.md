@@ -3,7 +3,7 @@ title: My Shifting View on Liberal Arts
 tags:
 - "capitalism"
 - "liberal arts"
-tagline: Seeing the deeper purpose of a liberal arts education requires us to see past capitalism's myopic vision for what education has to offer.
+excerpt: Seeing the deeper purpose of a liberal arts education requires us to see past capitalism's myopic vision for what education has to offer.
 date: 2022-08-06 14:09 -0500
 author_profile: false
 ---

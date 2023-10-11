@@ -3,6 +3,8 @@ main:
     url: /posts/
   - title: "Projects"
     url: /projects
+  - title: "Resume"
+    url: /assets/Resume.pdf
   - title: "Categories"
     url: /categories/
   - title: "Tags"
