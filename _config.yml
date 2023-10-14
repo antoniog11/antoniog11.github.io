@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  bio    : "A place for my writing and projects."
+  bio: "A place for my writing and projects."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -90,7 +90,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
       type: projects 
@@ -98,6 +98,16 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # research
+  - scope:
+      path: ""
+      type: research 
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+
 
 category_archive:
   type: liquid
@@ -108,6 +118,9 @@ tag_archive:
 
 collections:
   projects:
+    output: true
+    permalink: /:collection/:path/
+  research:
     output: true
     permalink: /:collection/:path/
   

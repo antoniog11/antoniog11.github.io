@@ -1,27 +1,30 @@
 ---
 title: "OAEBud"
 excerpt: "Wireless earbuds for low-cost hearing screening — best paper runner up in MobiSys '23 "
+tags:
+- "research"
+- "hearable"
 header:
-  teaser: /assets/projects/oae-bud/oaebud.jpeg
+  teaser: /assets/research/oae-bud/oaebud.jpeg
 gallery1:
-  - url: /assets/projects/oae-bud/pulse-sequence.jpeg
-    image_path: /assets/projects/oae-bud/pulse-sequence.jpeg
+  - url: /assets/research/oae-bud/pulse-sequence.jpeg
+    image_path: /assets/research/oae-bud/pulse-sequence.jpeg
     alt: "OAE Pulse sequence"
-  - url: /assets/projects/oae-bud/oaebud-system.png
-    image_path: /assets/projects/oae-bud/oaebud-system.jpeg
+  - url: /assets/research/oae-bud/oaebud-system.png
+    image_path: /assets/research/oae-bud/oaebud-system.jpeg
     alt: "OAEbud measurement setup"
 gallery2:
-  - url: /assets/projects/oae-bud/mobisys-awards-1.jpg
-    image_path: /assets/projects/oae-bud/mobisys-awards-1.jpg
+  - url: /assets/research/oae-bud/mobisys-awards-1.jpg
+    image_path: /assets/research/oae-bud/mobisys-awards-1.jpg
     alt: "Mobisys 2023 Awards"
-  - url: /assets/projects/oae-bud/mobisys-awards-2.jpg
-    image_path: /assets/projects/oae-bud/mobisys-awards-2.jpg
+  - url: /assets/research/oae-bud/mobisys-awards-2.jpg
+    image_path: /assets/research/oae-bud/mobisys-awards-2.jpg
     alt: "Mobisys 2023 Awards"
 ---
 
 {% include gallery id="gallery1" caption="Figures from our paper" %}
 
-# [Wireless Earbuds for low-cost hearing screening — MobiSys '23](https://dl.acm.org/doi/10.1145/3581791.3596856)
+# [Wireless earbuds for low-cost hearing screening — MobiSys '23](https://dl.acm.org/doi/10.1145/3581791.3596856)
 
 Early hearing loss screening is very important for ensuring that newborns obtain access to health care and assistance for cognitive development. In the United States, virtually every newborn undergoes hearing loss screening soonafter childbirth. Unfortunately, the devices that performs this test cost upwards of thousands of dollars which makes them prohibitively expensive for low income communities. Despite their high cost, their mechanism of operation is quite simple — the test only involves playing tones into a person's ear through an earbud and analyzing the frequency content of the sounds that come back. 
 
